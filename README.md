@@ -6,3 +6,7 @@ Assignment for Module 9 --- Version Control
 am3287
 ## Favorite Professor
 asdf
+## EUID
+ps1040
+## Favorite Professor
+Prachinmo
